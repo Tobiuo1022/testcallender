@@ -13,7 +13,7 @@
         <!--HOME-->
         <scene sceneID="Av0-Mb-YQh">
             <objects>
-                <viewController id="tPY-Vx-PX7" sceneMemberID="viewController">
+                <viewController id="tPY-Vx-PX7" customClass="home" customModule="mycallender" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ASu-ry-9cG">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
