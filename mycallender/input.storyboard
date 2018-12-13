@@ -13,7 +13,7 @@
         <!--記入-->
         <scene sceneID="GFF-AB-aEd">
             <objects>
-                <viewController id="DJQ-gR-3id" customClass="input" customModule="mycallender" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="DJQ-gR-3id" customClass="Input" customModule="mycallender" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="00t-ef-3pP">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
