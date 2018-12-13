@@ -3,6 +3,10 @@ import RealmSwift
 //ディスプレイサイズ取得
 let w2 = UIScreen.main.bounds.size.width
 let h2 = UIScreen.main.bounds.size.height
+
+
+
+
 //スケジュール内容入力テキスト
 let eventText = UITextView(frame: CGRect(x: (w2 - 300) / 2, y: 100, width: 300, height: 200))
 
