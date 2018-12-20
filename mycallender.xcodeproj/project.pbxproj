@@ -114,6 +114,7 @@
 				68D6538F21B8A2DD00169DA5 /* Products */,
 				C3F1C341AF7F9B2A5C89000F /* Pods */,
 				EA8BF4E6A3917E35F8688304 /* Frameworks */,
+				9724577921CC569B00BD4F75 /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -131,7 +132,6 @@
 			isa = PBXGroup;
 			children = (
 				68D6539121B8A2DD00169DA5 /* AppDelegate.swift */,
-
 				68D6539721B8A2DD00169DA5 /* Main.storyboard */,
 				68270E8D21B8B9C20053695D /* graph.swift */,
 				68270E8B21B8B9A20053695D /* settings.swift */,
@@ -144,6 +144,7 @@
 				68D6539A21B8A2E000169DA5 /* Assets.xcassets */,
 				68D6539C21B8A2E000169DA5 /* LaunchScreen.storyboard */,
 				68D6539F21B8A2E000169DA5 /* Info.plist */,
+				A4442A5F21B8C6480078AD61 /* Event.swift */,
 			);
 			path = mycallender;
 			sourceTree = "<group>";
@@ -164,6 +165,13 @@
 				68D653B521B8A2E000169DA5 /* Info.plist */,
 			);
 			path = mycallenderUITests;
+			sourceTree = "<group>";
+		};
+		9724577921CC569B00BD4F75 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 		C3F1C341AF7F9B2A5C89000F /* Pods */ = {
